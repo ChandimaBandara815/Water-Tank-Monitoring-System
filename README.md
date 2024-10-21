@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/ChandimaBandara815/Water-Tank-Monitoring-System/blob/main/Media/Screenshot%202024-10-21%20183909.png" alt="Image description" style="width:50%; height:50%;">
+    <img src="https://github.com/ChandimaBandara815/Water-Tank-Monitoring-System/blob/main/Media/Screenshot%202024-10-21%20183909.png" alt="Image description" style="width:100%; height:100%;">
   </p>
 
 
@@ -10,7 +10,7 @@
 
 **Features**
 
-> Real-Time Monitoring: Water levels measured with an ultrasonic sensor and displayed in the Blynk app.b/
+> Real-Time Monitoring: Water levels measured with an ultrasonic sensor and displayed in the Blynk app.
 > Automated Pump Control: Manage the water pump based on predefined levels.
 > App Integration: Control the motor via the Blynk app and get live status updates.
 > LED Indicators: Visual water level indicators with LEDs for easy tracking.
